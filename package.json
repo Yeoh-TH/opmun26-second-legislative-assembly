@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://github.com/Yeoh-TH/opmun26-second-legislative-assembly/",
+  "homepage":"https://yeoh-th.github.io/opmun26-second-legislative-assembly/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
